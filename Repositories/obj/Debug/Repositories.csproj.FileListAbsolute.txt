@@ -1,0 +1,9 @@
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Repositories\bin\Debug\Repositories.dll
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Repositories\bin\Debug\Repositories.pdb
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Repositories\bin\Debug\Entities.dll
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Repositories\bin\Debug\Interfaces.dll
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Repositories\bin\Debug\Entities.pdb
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Repositories\bin\Debug\Interfaces.pdb
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Repositories\obj\Debug\Repositories.dll
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Repositories\obj\Debug\Repositories.pdb

@@ -1,0 +1,5 @@
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Interfaces\bin\Debug\Interfaces.dll
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Interfaces\bin\Debug\Interfaces.pdb
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Interfaces\obj\Debug\Interfaces.dll
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Interfaces\obj\Debug\Interfaces.pdb

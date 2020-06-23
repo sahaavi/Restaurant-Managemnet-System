@@ -1,0 +1,5 @@
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Entities\bin\Debug\Entities.dll
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Entities\bin\Debug\Entities.pdb
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Entities\obj\Debug\Entities.dll
+E:\Study\Notes 6th Sem\OOP 2 C#\Restaurant Management System\Entities\obj\Debug\Entities.pdb
